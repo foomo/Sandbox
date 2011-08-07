@@ -1,0 +1,21 @@
+[submodule "modules/Foomo"]
+	path = modules/Foomo
+	url = ../Foomo.git
+[submodule "modules/Foomo.Services"]
+	path = modules/Foomo.Services
+	url = ../Foomo.Services.git
+[submodule "modules/Foomo.Docs"]
+	path = modules/Foomo.Docs
+	url = ../Foomo.Docs.git
+[submodule "modules/Foomo.TestRunner"]
+	path = modules/Foomo.TestRunner
+	url = ../Foomo.TestRunner.git
+[submodule "modules/Foomo.Flash"]
+	path = modules/Foomo.Flash
+	url = ../Foomo.Flash.git
+[submodule "modules/Foomo.Doctrine2"]
+	path = modules/Foomo.Doctrine2
+	url = ../Foomo.Doctrine2.git
+[submodule "modules/Foomo.Zugspitze"]
+	path = modules/Foomo.Zugspitze
+	url = ../Foomo.Zugspitze.git
