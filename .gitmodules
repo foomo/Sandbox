@@ -10,12 +10,4 @@
 [submodule "modules/Foomo.TestRunner"]
 	path = modules/Foomo.TestRunner
 	url = ../Foomo.TestRunner.git
-[submodule "modules/Foomo.Flash"]
-	path = modules/Foomo.Flash
-	url = ../Foomo.Flash.git
-[submodule "modules/Foomo.Doctrine2"]
-	path = modules/Foomo.Doctrine2
-	url = ../Foomo.Doctrine2.git
-[submodule "modules/Foomo.Zugspitze"]
-	path = modules/Foomo.Zugspitze
-	url = ../Foomo.Zugspitze.git
+
