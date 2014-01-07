@@ -11,3 +11,9 @@
 	path = modules/Foomo.TestRunner
 	url = ../Foomo.TestRunner.git
 
+[submodule "modules/Foomo.Bundle"]
+	path = modules/Foomo.Bundle
+	url = ../Foomo.Bundle.git
+[submodule "modules/Foomo.Less"]
+	path = modules/Foomo.Less
+	url = ../Foomo.Less.git
